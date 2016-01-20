@@ -1,0 +1,17 @@
+p {
+	font-style :Helvetica, sans-serif;
+}
+
+div {
+	position: center;
+	background-color: gray;
+
+}
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	color: orange;
+}
+
